@@ -6,3 +6,9 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4caf50?logo=analytics&logoColor=white)
 ![Investing](https://img.shields.io/badge/Investing-008080?logo=investing.com&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-0052cc?logo=azure-pipelines&logoColor=white)
+
+#  💸  What is this project about? 💸 
+
+📊 (bar chart)
+
+📈 (line chart)
